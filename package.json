@@ -1,0 +1,15 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ghostogre/grid.git",
+  "author": "yingjh <126ying@sina.cn>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack src/main.js"
+  },
+  "devDependencies": {
+    "webpack": "4.41.5",
+    "webpack-cli": "3.3.10"
+  }
+}
